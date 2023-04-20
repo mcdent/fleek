@@ -1,0 +1,28 @@
+aliases:
+    fleeks: cd /home/mike/.local/share/fleek
+bling: default
+ejected: false
+flakedir: .local/share/fleek
+git:
+    autocommit: false
+    autopull: false
+    autopush: false
+    enabled: false
+name: Fleek Configuration
+packages:
+    - helix
+    - nerdfonts
+    - neo
+    - difftastic
+paths:
+    - $HOME/bin
+    - $HOME/.local/bin
+programs:
+    - dircolors
+shell: bash
+systems:
+    - arch: x86_64
+      hostname: docker1
+      os: linux
+      username: mike
+unfree: true
