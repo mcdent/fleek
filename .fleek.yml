@@ -15,7 +15,6 @@ packages:
     - neo
     - difftastic
     - starship
-    - rogue
     - kitty
 paths:
     - $HOME/bin
