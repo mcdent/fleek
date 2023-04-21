@@ -24,7 +24,6 @@
     pkgs.difftastic
     pkgs.starship
     pkgs.rogue
-    pkgs.kitty
     # Fleek Bling
     pkgs.git
     pkgs.htop
