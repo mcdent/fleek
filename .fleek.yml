@@ -4,10 +4,10 @@ bling: default
 ejected: false
 flakedir: .local/share/fleek
 git:
-    autocommit: false
-    autopull: false
-    autopush: false
-    enabled: false
+    autocommit: true
+    autopull: true 
+    autopush: true 
+    enabled: true 
 name: Fleek Configuration
 packages:
     - helix
@@ -23,6 +23,10 @@ shell: bash
 systems:
     - arch: x86_64
       hostname: docker1
+      os: linux
+      username: mike
+    - arch: x86_64
+      hostname: thinkpad
       os: linux
       username: mike
 unfree: true
