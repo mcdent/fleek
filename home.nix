@@ -23,6 +23,7 @@
     pkgs.neo
     pkgs.difftastic
     pkgs.starship
+    pkgs.rogue
     pkgs.kitty
     # Fleek Bling
     pkgs.git
