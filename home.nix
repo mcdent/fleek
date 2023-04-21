@@ -22,6 +22,7 @@
     pkgs.nerdfonts
     pkgs.neo
     pkgs.difftastic
+    pkgs.starship
     # Fleek Bling
     pkgs.git
     pkgs.htop
