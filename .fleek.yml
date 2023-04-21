@@ -4,11 +4,7 @@ bling: default
 ejected: false
 flakedir: .local/share/fleek
 git:
-<<<<<<< Updated upstream
-    autocommit: true
-=======
     autocommit: true 
->>>>>>> Stashed changes
     autopull: true 
     autopush: true 
     enabled: true 
