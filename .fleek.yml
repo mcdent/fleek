@@ -8,6 +8,7 @@ git:
     autopull: true
     autopush: true
     enabled: true
+min_version: ""
 name: Fleek Configuration
 packages:
     - helix
@@ -31,3 +32,9 @@ systems:
       os: linux
       username: mike
 unfree: true
+users:
+    - email: mcdent@gmail.com
+      name: Mike Dent
+      ssh_private_key_file: ~/.ssh/id_rsa
+      ssh_public_key_file: ~/.ssh/id_rsa.pub
+      username: mike
