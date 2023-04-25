@@ -8,7 +8,6 @@
     programs.starship.enable = true;
 
   # User specified programs 
-    programs.dircolors.enable = true; 
-    programs.librewolf-wayland.enable = true;
+    programs.dircolors.enable = true;
 
 }

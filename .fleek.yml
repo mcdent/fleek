@@ -22,7 +22,6 @@ paths:
     - $HOME/.local/bin
 programs:
     - dircolors
-    - librewolf-wayland
 shell: bash
 systems:
     - arch: x86_64
