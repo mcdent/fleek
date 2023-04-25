@@ -15,7 +15,6 @@ packages:
     - neo
     - difftastic
     - starship
-    - kitty
 paths:
     - $HOME/bin
     - $HOME/.local/bin
