@@ -16,6 +16,7 @@ packages:
     - neo
     - difftastic
     - starship
+    - rogue
 paths:
     - $HOME/bin
     - $HOME/.local/bin
