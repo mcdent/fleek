@@ -9,6 +9,6 @@
 
   # User specified programs 
     programs.dircolors.enable = true; 
-    programs.programs.librewolf.enable.enable = true;
+    programs.librewolf-wayland.enable = true;
 
 }
