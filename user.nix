@@ -8,7 +8,7 @@ shellOptions = [
 
 	];
 
-profileExtra = [
+initExtra = [
 "set -o noclobber\n"
 	];
 };
