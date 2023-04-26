@@ -8,5 +8,8 @@ shellOptions = [
 
 	];
 
+profileExtra = [
+''set -o noclobber''
+	];
 };
 }
