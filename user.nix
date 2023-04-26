@@ -5,7 +5,10 @@ programs.bash =	{
 	enable = true;
 
 shellOptions = [
-	"noclobber"
+
+	];
+profileExtra = [
+	"set -o noclobber"
 	];
 
 };
