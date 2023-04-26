@@ -8,7 +8,6 @@ shellOptions = [
 
 	];
 profileExtra = [
-	"\n"
 	];
 
 };
