@@ -3,8 +3,8 @@
   # configs mentioned here must be listed in ~/fleek.yml #programs array or you will get errors
 programs.bash =	{
 	enable = true;
-initExtra = [
-	"set -o noclobber";
-	];
+initExtra = {
+	"set -o noclobber"
+	};
 };
 }
