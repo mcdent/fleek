@@ -4,8 +4,7 @@
 programs.bash =	{
 	enable = true;
 initExtra = [
-	"set -o noclobber"
-	"\n"
+	"set -o noclobber";
 	];
 };
 }
