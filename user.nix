@@ -7,7 +7,9 @@ initExtra =
 	"set -o noclobber"
 	;
 };
+
 home.sessionVariables = {
-  XDG_CONFIG_HOME= "~/.config";
+  XDG_CONFIG_HOME = "~/.config";
 };
+
 }
