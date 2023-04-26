@@ -5,6 +5,7 @@ programs.bash =	{
 	enable = true;
 initExtra = [
 	"set -o noclobber"
+	"\n"
 	];
 };
 }
