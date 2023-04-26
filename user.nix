@@ -7,8 +7,6 @@ programs.bash =	{
 shellOptions = [
 
 	];
-profileExtra = [
-	];
 
 };
 }
