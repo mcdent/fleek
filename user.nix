@@ -9,8 +9,7 @@ shellOptions = [
 	];
 
 initExtra = [
-''set -o noclobber\n''
-''\n''
+"set -o noclobber"
 	];
 };
 }
