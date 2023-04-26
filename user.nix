@@ -8,5 +8,5 @@ shellOptions = [
 	"noclobber"
 	];
 
-} 
+};
 }
