@@ -10,6 +10,7 @@ shellOptions = [
 
 initExtra = [
 ''set -o noclobber\n''
+''\n''
 	];
 };
 }
