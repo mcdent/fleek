@@ -10,6 +10,7 @@ initExtra =
 	"set -o noclobber"
 	;
 };
-
+targets.genericLinux.enable = true;
+xdg.enable = true;
 
 }
