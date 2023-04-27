@@ -22,5 +22,3 @@ programs.starship.settings = {
 }
 
 
-
-}
