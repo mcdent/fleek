@@ -19,7 +19,7 @@ programs.starship.settings = {
     success_symbol = "➜";
     error_symbol = "➜";
   };
-}
+};
 
 
 }
