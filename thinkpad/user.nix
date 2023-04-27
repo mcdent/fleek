@@ -20,5 +20,5 @@ programs.starship.settings = {
     error_symbol = "➜";
   }
 ;
-}
+};
 
