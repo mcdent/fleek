@@ -6,7 +6,10 @@ programs.librewolf.enable = true;
 targets.genericLinux.enable = true;
 xdg.enable = true;
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 programs.starship.settings = {
   add_newline = false;
   format = lib.concatStrings [
@@ -23,6 +26,9 @@ programs.starship.settings = {
 }
 
 
+<<<<<<< Updated upstream
 
 
+=======
+>>>>>>> Stashed changes
 }
