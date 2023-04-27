@@ -5,5 +5,4 @@ programs.librewolf.enable = true;
 # The following 2 lines set XDG paths correctly for non nix hosts. 
 targets.genericLinux.enable = true;
 xdg.enable = true;
-programs.librewolf.enable = true;
 }
