@@ -8,6 +8,7 @@ xdg.enable = true;
 
 <<<<<<< Updated upstream
 
+<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
 programs.starship.settings = {
@@ -29,6 +30,8 @@ programs.starship.settings = {
 <<<<<<< Updated upstream
 
 
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 }
