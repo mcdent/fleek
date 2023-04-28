@@ -44,16 +44,10 @@ programs.starship.settings = {
 show_always = true;
 style_user = "bg:#9A348E";
 style_root = "bg:#9A348E";
-
 disabled = false;
 
 
-
   scan_timeout = 10;
-  character = {
-    success_symbol = "➜";
-    error_symbol = "➜";
-  };
 };
 
 }
