@@ -1,9 +1,6 @@
 { pkgs, misc, ... }: {
   # This file will never be modified by fleek
   # configs mentioned here must be listed in ~/fleek.yml #programs array or you will get errors
-#home.sessionVariables = {
-#  XDG_CONFIG_HOME = "~/.config";
-#};
 programs.bash =	{
 	enable = true;
 initExtra = 
@@ -24,6 +21,6 @@ programs.starship.settings = {
     success_symbol = "➜";
     error_symbol = "➜";
   };
-}
+};
 
 }
