@@ -37,6 +37,15 @@ programs.starship.settings = {
 "[ ](fg:#33658A)"
 
   ];
+
+show_always = true;
+style_user = "bg:#9A348E";
+style_root = "bg:#9A348E";
+format = '[$user ]($style)';
+disabled = false;
+
+
+
   scan_timeout = 10;
   character = {
     success_symbol = "➜";
