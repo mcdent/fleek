@@ -35,15 +35,11 @@ programs.starship.settings = {
 "[](fg:#06969A bg:#33658A)"
 "$time"
 "[ ](fg:#33658A)"
-
-  ];
-
-
-  format = lib.concatStrings [
 "$user"
 "$style"
-	
+
   ];
+
 
 show_always = true;
 style_user = "bg:#9A348E";
