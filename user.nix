@@ -42,8 +42,8 @@ show_always = true;
 style_user = "bg:#9A348E";
 style_root = "bg:#9A348E";
   format = lib.concatStrings [
-"$user"
-"$style"
+	"$user"
+	"$style"
 ];
 
 disabled = false;
