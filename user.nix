@@ -8,6 +8,7 @@ initExtra =
 	;
 };
 
+<<<<<<< Updated upstream
 programs.starship.settings = {
   add_newline = false;
   format = lib.concatStrings [
@@ -49,5 +50,7 @@ disabled = false;
 
   scan_timeout = 10;
 };
+=======
+>>>>>>> Stashed changes
 
 }
