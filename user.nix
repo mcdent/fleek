@@ -76,20 +76,6 @@ initExtra =
           ];
           detect_files = [];
           detect_folders = [];
-          commands = [
-            [
-            "cc"
-            "--version"
-            ]
-            [
-            "gcc"
-            "--version"
-            ]
-            [
-            "clang"
-            "--version"
-            ]
-          ];
         };
         character = {
           format = "$symbol ";
