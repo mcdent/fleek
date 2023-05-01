@@ -7,6 +7,12 @@ initExtra =
 	"set -o noclobber"
 	;
 };
+
+home.shellAliases = {
+    fleeks = "cd /home/mike/.local/share/fleek";
+    };
+
+
 ## Below is starship config
   programs.starship = {
       enable = true;
