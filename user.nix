@@ -8,11 +8,6 @@ initExtra =
 	;
 };
 
-home.shellAliases = {
-    ls = "ls --color" 
-	;
-    };
-
 
 ## Below is starship config
   programs.starship = {
