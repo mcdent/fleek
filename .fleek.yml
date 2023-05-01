@@ -1,5 +1,6 @@
 aliases:
     fleeks: cd /home/mike/.local/share/fleek
+    ls: ls --color
 bling: default
 ejected: false
 flakedir: .local/share/fleek
