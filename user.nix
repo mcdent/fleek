@@ -10,6 +10,7 @@ initExtra =
 
 home.shellAliases = {
     ls = "ls --color" 
+	;
     };
 
 
