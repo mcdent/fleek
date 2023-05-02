@@ -48,7 +48,7 @@ initExtra =
           display = [
             {
               style = "red bold";
-              threshold = 10;
+              threshold = 90;
             }
           ];
         };
