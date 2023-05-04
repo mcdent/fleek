@@ -18,6 +18,7 @@ packages:
     - difftastic
     - starship
     - rogue
+    - kubectl
 paths:
     - $HOME/bin
     - $HOME/.local/bin
