@@ -900,7 +900,9 @@ initExtra =
         };
         custom = {
         };
+        add_newline = true;
       };
+        add_newline = true;
     };
     
 ## Above is Starship config
