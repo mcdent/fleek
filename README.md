@@ -20,6 +20,4 @@ $ apply-{hostname}
 Your actual aliases are listed below:
     fleeks = "cd /home/mike/.local/share/fleek";
 
-    k = "kubectl";
-
     ls = "ls --color";

@@ -25,7 +25,6 @@
     pkgs.starship
     pkgs.rogue
     pkgs.kubectl
-    pkgs.k9s
     # Fleek Bling
     pkgs.git
     pkgs.htop
