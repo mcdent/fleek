@@ -19,6 +19,7 @@ packages:
     - starship
     - rogue
     - kubectl
+    - k9s
 paths:
     - $HOME/bin
     - $HOME/.local/bin
