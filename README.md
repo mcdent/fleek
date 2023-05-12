@@ -18,6 +18,8 @@ $ apply-{hostname}
 ```
 
 Your actual aliases are listed below:
+    d = "docker";
+
     fleeks = "cd /home/mike/.local/share/fleek";
 
     k = "kubectl";

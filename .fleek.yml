@@ -22,7 +22,6 @@ packages:
     - rogue
     - kubectl
     - k9s
-    - rgrep
 paths:
     - $HOME/bin
     - $HOME/.local/bin
