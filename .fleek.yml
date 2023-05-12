@@ -2,6 +2,7 @@ aliases:
     fleeks: cd /home/mike/.local/share/fleek
     ls: ls --color
     k: kubectl
+    d: docker
 bling: default
 ejected: false
 flakedir: .local/share/fleek
