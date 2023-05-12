@@ -26,6 +26,7 @@
     pkgs.rogue
     pkgs.kubectl
     pkgs.k9s
+    pkgs.rgrep
     # Fleek Bling
     pkgs.git
     pkgs.htop
