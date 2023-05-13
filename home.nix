@@ -1,5 +1,4 @@
 { config, pkgs, misc, ... }: {
-  # DO NOT EDIT: This file is managed by fleek. Manual changes will be overwritten.
   nixpkgs = {
     # Configure your nixpkgs instance
     config = {
@@ -27,7 +26,6 @@
     pkgs.rogue
     pkgs.kubectl
     pkgs.k9s
-    pkgs.ripgrep
     # Fleek Bling
     pkgs.git
     pkgs.htop
